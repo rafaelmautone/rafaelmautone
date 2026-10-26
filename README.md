@@ -1,7 +1,5 @@
 ### OLÁ! Eu sou o Rafael Mautone.🖐
 
-- 🔭 Estudante de Analise de Desenvolvimento de Sistemas - PUC MINAS
-- 🌱 Linguagens: TypeScript, Javascript, HTML, CSS, CSHARP, JSON, REACT E REACT NATIVE, MySQL
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmautone&show_icons=true&theme=dracula)
 
