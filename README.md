@@ -1,5 +1,6 @@
 ### OLÁ! Eu sou o Rafael Mautone.🖐
 
+Graduação: Análise e Desenvolvimento de Sistemas - PUC/Minas
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmautone&show_icons=true&theme=dracula)
 
